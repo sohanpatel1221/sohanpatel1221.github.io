@@ -9709,7 +9709,7 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 5rem;
   line-height: 5.75rem;
   margin-top: auto;
-  display: flex;
+  
 
 }
 
@@ -9730,7 +9730,7 @@ a.text-dark:hover, a.text-dark:focus {
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
-    font-size: 1rem;
+    /*font-size: 1rem; */
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
